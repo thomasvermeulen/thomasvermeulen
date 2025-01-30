@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hallo, ik ben Thomas  
 
-<!--
-**thomasvermeulen/thomasvermeulen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 **Software Developer | PMO bij Eneco | Student Software Development**   
+🎯 **Mijn doel: Full-stack developer worden & efficiënte software bouwen**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Techstack
+
+- 🖥️ Frontend: HTML, CSS, JavaScript, React
+- 🔥 Backend: Python (Flask), SQL
+- 🔒 Security: OWASP, Hashing & Salting, Encryptie
+- 📊 Data: Big Data, Machine Learning
+
+---
+
+## 📪 Contact
+
+🔹 LinkedIn: [linkedin.com/in/thomasvermeulen](https://www.linkedin.com/in/thomas-vermeulen-a68067251) 
+🔹 E-mail: thomas@jugzxo.com
